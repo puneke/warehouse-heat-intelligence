@@ -1,0 +1,26 @@
+.DS_Store
+
+# Python environments and local tooling
+.venv/
+.venv-*/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Local caches
+.cache/
+.matplotlib-cache/
+.pytest_cache/
+
+# Large source/intermediate data. See data/README.md for download notes.
+data/raw/*
+data/processed/*
+!data/README.md
+!data/raw/.gitkeep
+!data/processed/.gitkeep
+
+# Temporary files
+*.tmp
+*.log
