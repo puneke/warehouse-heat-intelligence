@@ -8,7 +8,7 @@ The purpose of the model is to help prioritise which warehouse locations may ben
 
 ## Why This Matters
 
-Warehouses are unique amongst buildings, in that they maximise for space, rather than human comfort. The main economic incentive then becomes creating the largest enclosed space, for the lowest dollar. This is reflected in the choice of materials commonly used in their construction. The floor and walls tend to be thick reinforced concrete slabs, followed by a corrugated steel roof.
+Warehouses are unique amongst buildings, in that they maximise for space, rather than human comfort. The main economic incentive then becomes creating the largest enclosed space, for the lowest dollar. This is reflected in the choice of materials commonly used in their construction, where floor and walls tend to be thick reinforced concrete slabs, and the roof is corrugated steel.
 
 Although these materials are fast and inexpensive to produce, their combined physical properties can capture and store heat. Corrugated steel sheets can reach high temperatures quickly because steel has low thermal mass, low specific heat capacity, and good thermal conductivity. This allows solar energy to spread rapidly across the roof. During summer, roof surface temperatures can exceed 70°C. This heat then radiates into the building, where the high thermal mass of thick concrete walls can absorb and store energy. Heat can accumulate indoors, causing warehouse temperatures to exceed ambient outdoor conditions.
 
